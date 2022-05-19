@@ -1,0 +1,1 @@
+start cmd /k "C:\Users\97254\anaconda3\Scripts\activate.bat C:\Users\97254\anaconda3\envs\python-cvcourse & activate env"
